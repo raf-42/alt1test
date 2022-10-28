@@ -1,7 +1,7 @@
 {
 	"appName": "Raf's Price Check & Trade",
 	"description": "Record & View tracked items",
-	"appUrl": "./index.min.js",
+	"appUrl": "./index.html",
 	"configUrl": "./appconfig.json",
 	"iconUrl": "./icon.png",
 	"defaultWidth": 400,
