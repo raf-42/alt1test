@@ -1,7 +1,7 @@
 {
 	"appName": "Raf's Price Check & Trade",
 	"description": "Record & View tracked items",
-	"appUrl": "https://raw.githubusercontent.com/raf-42/alt1test/main/index.html",
+	"appUrl": "https://raw.githubusercontent.com/raf-42/alt1test/main/index.min.js",
 	"configUrl": "https://raw.githubusercontent.com/raf-42/alt1test/main/appconfig.json",
 	"iconUrl": "https://raw.githubusercontent.com/raf-42/alt1test/main/icon.png",
 	"defaultWidth": 400,
