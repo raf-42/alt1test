@@ -1,9 +1,9 @@
 {
 	"appName": "Price Check & Trade",
 	"description": "Record & View tracked items",
-	"appUrl": "https://pct.wtf/index.html",
-	"configUrl": "https://pct.wtf/appconfig.json",
-	"iconUrl": "https://pct.wtf/img/icon.png",
+	"appUrl": "https://github.com/raf-42/alt1test/blob/main/index.html",
+	"configUrl": "https://github.com/raf-42/alt1test/blob/main/appconfig.json",
+	"iconUrl": "https://github.com/raf-42/alt1test/blob/main/icon.png",
 	"defaultWidth": 400,
 	"defaultHeight": 420,
 	"minWidth": 400,
